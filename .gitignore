@@ -1,0 +1,10 @@
+# Build generated files.
+build/*
+dist/*
+
+# Config files file.
+.env
+
+# NPM generated files.
+node_modules/*
+npm-debug.log*
